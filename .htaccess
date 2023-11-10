@@ -1,9 +1,13 @@
-<IfModule mod_rewrite.c>
+# Options +FollowSymLinks -Indexes
+# IndexIgnore *
+# DirectoryIndex
+# <IfModule mod_rewrite.c>
+# RewriteEngine on
+# # Simple URL redirect:
+# RewriteRule ^(.*)$ http://127.0.0.1:21312/$1 [P]
+# </IfModule>
+
+Options -MultiViews
 RewriteEngine On
-RewriteBase /subdirectory
-RewriteRule ^index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-l
-RewriteRule . /index.html [L]
-</IfModule>
+RewriteRule ^ index.html [QSA,L]
