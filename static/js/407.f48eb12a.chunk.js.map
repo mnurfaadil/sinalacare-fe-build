@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/407.f48eb12a.chunk.js","mappings":"6IAMA,UAJgB,WACZ,OAAOA,EAAAA,EAAAA,KAAAC,EAAAA,SAAA,CAAAC,SAAE,WACb,C","sources":["pages/Product.js"],"sourcesContent":["import React from \"react\"\n\nconst Product = () => {\n    return <>Product</>;\n}\n\nexport default Product;"],"names":["_jsx","_Fragment","children"],"sourceRoot":""}
