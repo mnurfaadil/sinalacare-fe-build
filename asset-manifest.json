@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://sinalacarefe.neonauby.com/static/css/main.27d778c3.css",
-    "main.js": "https://sinalacarefe.neonauby.com/static/js/main.5b147da8.js",
+    "main.js": "https://sinalacarefe.neonauby.com/static/js/main.a2b20624.js",
     "static/js/677.6ba14890.chunk.js": "https://sinalacarefe.neonauby.com/static/js/677.6ba14890.chunk.js",
     "static/js/379.aff50138.chunk.js": "https://sinalacarefe.neonauby.com/static/js/379.aff50138.chunk.js",
     "static/js/407.f48eb12a.chunk.js": "https://sinalacarefe.neonauby.com/static/js/407.f48eb12a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/991.f0692696.chunk.js": "https://sinalacarefe.neonauby.com/static/js/991.f0692696.chunk.js",
     "static/js/315.c0288bed.chunk.js": "https://sinalacarefe.neonauby.com/static/js/315.c0288bed.chunk.js",
     "static/js/98.caef8eae.chunk.js": "https://sinalacarefe.neonauby.com/static/js/98.caef8eae.chunk.js",
-    "static/js/234.6622b961.chunk.js": "https://sinalacarefe.neonauby.com/static/js/234.6622b961.chunk.js",
+    "static/js/234.3c251762.chunk.js": "https://sinalacarefe.neonauby.com/static/js/234.3c251762.chunk.js",
     "static/js/466.a02c7187.chunk.js": "https://sinalacarefe.neonauby.com/static/js/466.a02c7187.chunk.js",
     "static/js/787.d6cb1aba.chunk.js": "https://sinalacarefe.neonauby.com/static/js/787.d6cb1aba.chunk.js",
     "static/js/281.cc171bfd.chunk.js": "https://sinalacarefe.neonauby.com/static/js/281.cc171bfd.chunk.js",
@@ -80,7 +80,7 @@
     "static/media/roboto-greek-ext-700-normal.woff": "https://sinalacarefe.neonauby.com/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "https://sinalacarefe.neonauby.com/index.html",
     "main.27d778c3.css.map": "https://sinalacarefe.neonauby.com/static/css/main.27d778c3.css.map",
-    "main.5b147da8.js.map": "https://sinalacarefe.neonauby.com/static/js/main.5b147da8.js.map",
+    "main.a2b20624.js.map": "https://sinalacarefe.neonauby.com/static/js/main.a2b20624.js.map",
     "677.6ba14890.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/677.6ba14890.chunk.js.map",
     "379.aff50138.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/379.aff50138.chunk.js.map",
     "407.f48eb12a.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/407.f48eb12a.chunk.js.map",
@@ -89,7 +89,7 @@
     "991.f0692696.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/991.f0692696.chunk.js.map",
     "315.c0288bed.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/315.c0288bed.chunk.js.map",
     "98.caef8eae.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/98.caef8eae.chunk.js.map",
-    "234.6622b961.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/234.6622b961.chunk.js.map",
+    "234.3c251762.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/234.3c251762.chunk.js.map",
     "466.a02c7187.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/466.a02c7187.chunk.js.map",
     "787.d6cb1aba.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/787.d6cb1aba.chunk.js.map",
     "281.cc171bfd.chunk.js.map": "https://sinalacarefe.neonauby.com/static/js/281.cc171bfd.chunk.js.map",
@@ -100,6 +100,6 @@
   },
   "entrypoints": [
     "static/css/main.27d778c3.css",
-    "static/js/main.5b147da8.js"
+    "static/js/main.a2b20624.js"
   ]
 }
