@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://sinalacare.hangtuah.ac.id/static/css/main.1589038c.css",
-    "main.js": "https://sinalacare.hangtuah.ac.id/static/js/main.eedbcccd.js",
+    "main.js": "https://sinalacare.hangtuah.ac.id/static/js/main.2e45fbf8.js",
     "static/js/677.72b21544.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/677.72b21544.chunk.js",
     "static/js/379.aff50138.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/379.aff50138.chunk.js",
     "static/js/407.f48eb12a.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/407.f48eb12a.chunk.js",
@@ -9,11 +9,11 @@
     "static/js/600.d3865b25.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/600.d3865b25.chunk.js",
     "static/js/517.30c481b7.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/517.30c481b7.chunk.js",
     "static/js/382.e0b84699.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/382.e0b84699.chunk.js",
-    "static/js/937.7ead8a59.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/937.7ead8a59.chunk.js",
+    "static/js/937.a0c52972.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/937.a0c52972.chunk.js",
     "static/js/995.acbe1294.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/995.acbe1294.chunk.js",
     "static/css/416.c62ea254.chunk.css": "https://sinalacare.hangtuah.ac.id/static/css/416.c62ea254.chunk.css",
-    "static/js/416.144a2f63.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/416.144a2f63.chunk.js",
-    "static/js/458.20d964cc.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/458.20d964cc.chunk.js",
+    "static/js/416.52a3ea29.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/416.52a3ea29.chunk.js",
+    "static/js/458.e20ada02.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/458.e20ada02.chunk.js",
     "static/js/787.d6cb1aba.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/787.d6cb1aba.chunk.js",
     "static/js/281.51ef703b.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/281.51ef703b.chunk.js",
     "static/js/143.395e3151.chunk.js": "https://sinalacare.hangtuah.ac.id/static/js/143.395e3151.chunk.js",
@@ -86,7 +86,7 @@
     "static/media/roboto-greek-ext-700-normal.woff": "https://sinalacare.hangtuah.ac.id/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "https://sinalacare.hangtuah.ac.id/index.html",
     "main.1589038c.css.map": "https://sinalacare.hangtuah.ac.id/static/css/main.1589038c.css.map",
-    "main.eedbcccd.js.map": "https://sinalacare.hangtuah.ac.id/static/js/main.eedbcccd.js.map",
+    "main.2e45fbf8.js.map": "https://sinalacare.hangtuah.ac.id/static/js/main.2e45fbf8.js.map",
     "677.72b21544.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/677.72b21544.chunk.js.map",
     "379.aff50138.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/379.aff50138.chunk.js.map",
     "407.f48eb12a.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/407.f48eb12a.chunk.js.map",
@@ -94,11 +94,11 @@
     "600.d3865b25.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/600.d3865b25.chunk.js.map",
     "517.30c481b7.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/517.30c481b7.chunk.js.map",
     "382.e0b84699.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/382.e0b84699.chunk.js.map",
-    "937.7ead8a59.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/937.7ead8a59.chunk.js.map",
+    "937.a0c52972.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/937.a0c52972.chunk.js.map",
     "995.acbe1294.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/995.acbe1294.chunk.js.map",
     "416.c62ea254.chunk.css.map": "https://sinalacare.hangtuah.ac.id/static/css/416.c62ea254.chunk.css.map",
-    "416.144a2f63.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/416.144a2f63.chunk.js.map",
-    "458.20d964cc.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/458.20d964cc.chunk.js.map",
+    "416.52a3ea29.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/416.52a3ea29.chunk.js.map",
+    "458.e20ada02.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/458.e20ada02.chunk.js.map",
     "787.d6cb1aba.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/787.d6cb1aba.chunk.js.map",
     "281.51ef703b.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/281.51ef703b.chunk.js.map",
     "143.395e3151.chunk.js.map": "https://sinalacare.hangtuah.ac.id/static/js/143.395e3151.chunk.js.map",
@@ -111,6 +111,6 @@
   },
   "entrypoints": [
     "static/css/main.1589038c.css",
-    "static/js/main.eedbcccd.js"
+    "static/js/main.2e45fbf8.js"
   ]
 }
